@@ -1,2 +1,3 @@
-# 1030520993_BS441_WebYazilimGelistirme
-1030520993_BS441_WebYazilimGelistirme
+# Öğrenci Numarası : 1030520993
+# Öğrenci Adı : Nazife Demirci
+# Ders Adı : BS441 Web Yazılım Geliştirme
